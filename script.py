@@ -3,7 +3,7 @@ class Script(object):
 
 My name is <a href=https://t.me/{}>{}</a>!
 
-<b>I can provide Movies. A Telegram Auto Filter Bot. Its Easy To Use Me :)
+<b>I can prov,,,,,JKGU y To Use Me :)
 
 Just Add me to Your Group As Admin, Hit The Help Button For More Info..</b>"""
 
